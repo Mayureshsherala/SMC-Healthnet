@@ -34,7 +34,35 @@ The app will be available at `http://localhost:3000`
 ---
 
 ## 📌 Problem Statement
+Title : Smart Health Solutions for Solapur Municipal Corporation
+Description : 
 
+One-Line Problem Statement
+Design and develop an integrated, technology-enabled Smart Public Health Management System for Solapur Municipal Corporation (SMC) to improve healthcare accessibility, disease surveillance, infrastructure monitoring, and citizen engagement through data-driven and real-time digital solutions.
+
+Context
+Solapur Municipal Corporation serves a rapidly expanding urban population with diverse healthcare needs. Despite ongoing public health initiatives, the city continues to face challenges such as unequal access to healthcare services, delayed outbreak detection, fragmented health data systems, limited preventive healthcare awareness, and lack of real-time visibility into public health infrastructure.
+The COVID-19 pandemic further highlighted the importance of real-time, integrated, and technology-driven healthcare systems to strengthen preventive care, emergency response, and informed decision-making at the municipal level.
+
+Problem Description
+Solapur Municipal Corporation requires a unified digital health ecosystem to address the following challenges:
+
+1. Fragmented Health Data and Limited Visibility
+• Health data is siloed across hospitals, clinics, laboratories, and government programs.
+• Absence of standardized, real-time health data analytics for planning and monitoring.
+• Limited ward-wise and zone-wise visibility of health indicators.
+2. Delayed Disease Detection and Response
+• Inadequate predictive systems for early detection of disease outbreaks.
+• Lack of real-time surveillance for communicable and non-communicable diseases.
+• Difficulty in identifying high-risk populations and vulnerable zones.
+3. Limited Citizen-Centric Digital Health Services
+• Insufficient digital platforms for appointments, telemedicine, vaccination alerts, and emergency services.
+• Low awareness and engagement in preventive healthcare and wellness programs.
+• Limited accessibility for diverse and multilingual populations.
+4. Inefficient Monitoring of Public Health Infrastructure
+• Lack of real-time tracking of hospital bed availability, equipment condition, and medicine stocks.
+• Manual processes reduce efficiency, transparency, and accountability.
+   ## Problem identified with additions
 Solapur Municipal Corporation manages public health across a rapidly growing urban population — but the system runs almost entirely on manual processes. Bed availability is checked by phone calls, ASHA workers carry paper registers, and administrators receive weekly PDF reports that are outdated before they arrive.
 
 There is no single place where a citizen, an ASHA worker, a hospital doctor, and a municipal officer can all see the same live picture of the city's health and act on it together. SMC HealthNet is built to close that gap.
