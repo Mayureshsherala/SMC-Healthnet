@@ -74,12 +74,11 @@ There is no single place where a citizen, an ASHA worker, a hospital doctor, and
 | Current Reality | With SMC HealthNet |
 |---|---|
 | Bed availability checked by calling hospitals | Live general, ICU, and O₂ bed counts for all hospitals |
-| ASHA paper registers reach offices weeks late | Field data logged on mobile, reflects instantly |
+| ASHA paper registers reach offices weeks late | Field data logged on device, reflects instantly |
 | No coordination between hospitals city-wide | Shared resource layer keeps all hospitals in sync |
 | Medicine shortages found only when stock runs out | Threshold alerts trigger automatic replenishment |
 | Admins receive static PDF reports | Live city-wide dashboard with real-time risk levels |
 | Government tools are English-only | Full Marathi, Hindi, and English support |
-| No digital tool exists for ASHA workers | Dedicated mobile ASHA dashboard |
 | Outbreaks detected only after hospital surge | Ground-level symptom data triggers early alerts |
 | Citizens must visit facilities for information | Citizen portal with hospital search and telemedicine |
 
