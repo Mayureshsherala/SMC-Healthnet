@@ -1,19 +1,30 @@
 
 # SMC-Healthnet
+---
 
+## To run the Website
 
+### Prerequisites
+- Node.js installed on your machine
 
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/Mayureshsherala/SMC-Healthnet.git
 
-This contains everything you need to run your app locally.
+# Navigate into the project directory
+cd SMC-Healthnet
 
+# Install dependencies
+npm install
 
-**Prerequisites:**  Node.js
+# Start the development server
+npm run dev
+```
 
+The app will be available at `http://localhost:3000`
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+---
 
 
 # SMC HealthNet — Smart Health Solutions for Solapur Municipal Corporation
@@ -134,31 +145,6 @@ Admin → pushes advisories and actions → Citizens + ASHA + Hospitals
 | Maps | GIS integration |
 | Tools | Stitch, Cursor |
 
----
-
-## ⚙️ Getting Started
-
-### Prerequisites
-- Node.js installed on your machine
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/Mayureshsherala/SMC-Healthnet.git
-
-# Navigate into the project directory
-cd SMC-Healthnet
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-The app will be available at `http://localhost:3000`
-
----
 
 ## 📊 Subsystems
 
@@ -211,7 +197,3 @@ The app will be available at `http://localhost:3000`
 **Institute:** N B Navale Sinhgad College of Engineering, Solapur
 
 ---
-
-## 📄 Declaration
-
-This project is an original outcome of Team The Pandavas, developed under the guidance of Prof. Sunil Shakhapure for SAMVED-2026. The work is neither copied from any source nor generated using artificial intelligence tools.
